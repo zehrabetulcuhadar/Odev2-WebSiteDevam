@@ -1,2 +1,3 @@
 # Odev2-WebSiteDevam
 Kişisel Sayfamızı Detaylandırmaya Devam Etmek
+## Sayfanın görünümü aşağıdaki gibidir...
